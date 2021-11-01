@@ -6,3 +6,5 @@ const head = function (list) {
   return k
 }
 
+
+module.exports = head;
